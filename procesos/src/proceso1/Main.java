@@ -57,7 +57,7 @@ public class Main {
 			System.out.println("Ordenada");
 			cola.imprimirColas(quantumProceso, colaMenor5, colaMenor10, colaMayor10);// ordenado
 
-			
+			//////pu
 
 		} while (!cola.esCeroElArray(quantumProceso));
 		//
